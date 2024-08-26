@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  MNISTHandwritingRecognition
+//  TraceDigit
 //
 //  Created by Yasar Labib & Ozair Kamran on 8.25.2024
 //
